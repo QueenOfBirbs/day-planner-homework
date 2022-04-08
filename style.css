@@ -147,7 +147,7 @@ p {
     border-radius: 50px;
     -webkit-transition: all .15s ease-in-out;
     transition: all .15s ease-in-out;
-    color: #fa6c3e;
+    color: white;
 }
 
 #inputBox:hover {
