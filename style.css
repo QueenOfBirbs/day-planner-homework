@@ -1,12 +1,29 @@
+/* MY THEMED THINGS */
+
+/* FONTS: */
+/* font-family: 'Barlow Condensed', sans-serif;
+font-family: 'Monoton', cursive;
+font-family: 'Neonderthaw', cursive;
+font-family: 'Press Start 2P', cursive;
+font-family: 'Rubik Glitch', cursive; */
+
+/* COLORS: */
+/* #bc13fe purple
+#0fa mint
+#fa6c3e orange
+#e3239c pink */
+
 body {
     background-color: #393835;
 }
 
+/* JUMBOTRON AND JUMBOTRON EFFECTS */
 .jumbotron {
     background-image: url(./customization/2023807_snow8bits_pixel-vaporwave-wallpaper.png);
     background-repeat: no-repeat;
     background-position: 100%;
     background-size: cover;
+    margin: 10px;
     border: 0.2rem solid #fff;
     padding: 0.4em;
     box-shadow: 0 0 .2rem #fff,
@@ -39,14 +56,28 @@ body {
     }
 }
 
-h1 {}
+/* TEXT TAGS */
+h1 {
+    font-family: 'Monoton', cursive;
+    font-size: xxx-large;
+}
 
-h2 {}
+h2 {
+    font-family: 'Barlow Condensed', sans-serif;
+    font-size: x-large;
+}
 
-p {}
+p {
+    font-family: 'Barlow Condensed', sans-serif;
+    font-size: larger;  
+}
 
+/* 9AM TO 5PM HEADINGS AND EFFECTS*/
 .timeArea {
+    margin: 10px;
+    margin-left: -20px;
     color: white;
+    font-family: 'Monoton', cursive;
 }
 
 #timeBox {
@@ -57,10 +88,10 @@ p {}
     padding: 0.4em;
     box-shadow: 0 0 .2rem #fff,
         0 0 .2rem #fff,
-        0 0 2rem #bc13fe,
-        0 0 0.8rem #bc13fe,
-        0 0 2.8rem #bc13fe,
-        inset 0 0 1.3rem #bc13fe;
+        0 0 2rem #0fa,
+        0 0 0.8rem #0fa,
+        0 0 2.8rem #0fa,
+        inset 0 0 1.3rem #0fa;
     text-align: right;
     color: #fff;
     text-shadow:
@@ -106,67 +137,44 @@ p {}
     }
 }
 
+/* USER INPUT BOXES AND EFFECTS */
 #inputBox {
+    background-image: url(./customization/istockphoto-1218380099-612x612.jpg);
+    margin: 10px;
+    font-family: 'Barlow Condensed', sans-serif;
     background-color: transparent;
-    border: 3px solid #00d7c3;
+    border: 3px solid #fa6c3e;
     border-radius: 50px;
     -webkit-transition: all .15s ease-in-out;
     transition: all .15s ease-in-out;
-    color: #00d7c3;
+    color: #fa6c3e;
 }
 
 #inputBox:hover {
-    box-shadow: 0 0 10px 0 #00d7c3 inset, 0 0 20px 2px #00d7c3;
-    border: 3px solid #00d7c3;
+    box-shadow: 0 0 10px 0 #fa6c3e inset, 0 0 20px 2px #fa6c3e;
+    border: 3px solid #fa6c3e;
 }
 
+/* SAVE BUTTONS AND EFFECTS */
 #saveButton {
+    margin: 10px;
+    margin-left: 30px;
+    font-family: 'Monoton', cursive;
+    font-size:medium;
     color: #fff;
+    border: 0.2rem solid #fff;
+    padding: 0.4em;
+    box-shadow: 0 0 .2rem #fff,
+        0 0 .2rem #fff,
+        0 0 2rem #e3239c,
+        0 0 0.8rem #e3239c,
+        0 0 2.8rem #e3239c,
+        inset 0 0 1.3rem #e3239c;
+    padding: 10px;
     background-color: transparent;
-    text-shadow:
-        0 0 7px #fff,
-        0 0 10px #fff,
-        0 0 21px #fff,
-        0 0 42px #0fa,
-        0 0 82px #0fa,
-        0 0 92px #0fa,
-        0 0 102px #0fa,
-        0 0 151px #0fa;
-}
-
-.pulsate {
-    animation: pulsate 1.5s infinite alternate;
-}
-
-@keyframes pulsate {
-    100% {
-        text-shadow:
-            0 0 4px #fff,
-            0 0 11px #fff,
-            0 0 19px #fff,
-            0 0 40px #0fa,
-            0 0 80px #0fa,
-            0 0 90px #0fa,
-            0 0 100px #0fa,
-            0 0 150px #0fa;
-
-    }
-
-    0% {
-        text-shadow:
-            0 0 2px #fff,
-            0 0 4px #fff,
-            0 0 6px #fff,
-            0 0 10px #0fa,
-            0 0 45px #0fa,
-            0 0 55px #0fa,
-            0 0 70px #0fa,
-            0 0 80px #0fa;
-
-    }
 }
 
 #saveButton:hover {
-    box-shadow: 0 0 10px 0 #00d7c3 inset, 0 0 20px 2px #00d7c3;
-    border: 3px solid #00d7c3;
+    box-shadow: 0 0 10px 0 #e3239c inset, 0 0 20px 2px #e3239c;
+    border: 3px solid #e3239c;
 }
