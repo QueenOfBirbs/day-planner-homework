@@ -1,6 +1,7 @@
 # day-planner-homework
 
 ///ACCEPTANCE CRITERIA///
+<br>
 GIVEN I am using a daily planner to create a schedule
 WHEN I open the planner
 THEN the current day is displayed at the top of the calendar
@@ -17,10 +18,12 @@ THEN the saved events persist
 
 
 ///WHAT I DID///
+<br>
 i was able to get the layout correct and make the input boxes work. i got local storage to work as well so the page saves whatever the user inputs.
 
 
 ///LINKS ETC..///
+<br>
 link to repo: https://github.com/QueenOfBirbs/day-planner-homework
 link to site: https://queenofbirbs.github.io/day-planner-homework/
 pictures of work will be in the finished folder!
