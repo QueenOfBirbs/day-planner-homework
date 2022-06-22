@@ -17,9 +17,7 @@ THEN the saved events persist
 
 
 ///WHAT I DID///
-i was able to get the layout correct and make the input boxes work. i think i got the local storage bit to work just not the displaying part.
-i also couldn't figure out the time change thing unfortunately. i'm happy with the design and the final looks of it so i intend to make it work properly
-when i work with my tutor soon.
+i was able to get the layout correct and make the input boxes work. i got local storage to work as well so the page saves whatever the user inputs.
 
 
 ///LINKS ETC..///
