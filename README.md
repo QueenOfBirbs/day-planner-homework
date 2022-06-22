@@ -25,5 +25,7 @@ i was able to get the layout correct and make the input boxes work. i got local 
 ///LINKS ETC..///
 <br>
 link to repo: https://github.com/QueenOfBirbs/day-planner-homework
+<br>
 link to site: https://queenofbirbs.github.io/day-planner-homework/
+<br>
 pictures of work will be in the finished folder!
