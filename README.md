@@ -19,7 +19,7 @@ Another homework assignment but since I had finished it early that night I decid
 
 ## Installation
 
-To run this application locally make sure to copy the files and then run npm install to have all of the correct dependencies. Otherwise please follow the link in the description or above to try out the deployed version yourself!
+To run this application locally make sure to copy the files and then run ```npm install``` to have all of the correct dependencies. Otherwise please follow the link in the description or above to try out the deployed version yourself!
 
 ## Usage
 
