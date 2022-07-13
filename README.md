@@ -1,31 +1,43 @@
-# day-planner-homework
+# Day Planner
 
-///ACCEPTANCE CRITERIA///
-<br>
-GIVEN I am using a daily planner to create a schedule
-WHEN I open the planner
-THEN the current day is displayed at the top of the calendar
-WHEN I scroll down
-THEN I am presented with timeblocks for standard business hours
-WHEN I view the timeblocks for that day
-THEN each timeblock is color coded to indicate whether it is in the past, present, or future
-WHEN I click into a timeblock
-THEN I can enter an event
-WHEN I click the save button for that timeblock
-THEN the text for that event is saved in local storage
-WHEN I refresh the page
-THEN the saved events persist
+## Description 
+
+Here is a link to the deployed application on Github:
+
+https://queenofbirbs.github.io/day-planner-homework/
+
+Another homework assignment but since I had finished it early that night I decided to mess around with the CSS a bit; I ended up going for a Vaporwave-esque theme. Relatively plain structure wise but one of my favorite themes that I did in class, and helped me figure how to use one of my all-time fave CSS effects.
+
+[![License:MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+## Table of Contents
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
+- [Questions](#questions)
+
+## Installation
+
+To run this application locally make sure to copy the files and then run npm install to have all of the correct dependencies. Otherwise please follow the link in the description or above to try out the deployed version yourself!
+
+## Usage
+
+This is largely for personal use though feel free to look around!
+Here is a screenshot of the application:
+
+<img src="./finished/Screenshot(191).png">
 
 
-///WHAT I DID///
-<br>
-i was able to get the layout correct and make the input boxes work. i got local storage to work as well so the page saves whatever the user inputs.
+## Contributing
 
+Isis Alexander (https://github.com/QueenOfBirbs)
 
-///LINKS ETC..///
-<br>
-link to repo: https://github.com/QueenOfBirbs/day-planner-homework
-<br>
-link to site: https://queenofbirbs.github.io/day-planner-homework/
-<br>
-pictures of work will be in the finished folder!
+## License
+
+This application is covered under MIT license. 
+
+## Questions
+
+You can reach us at goddess.isis.alexander@gmail.com if you have any questions!
+
