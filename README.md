@@ -26,7 +26,7 @@ To run this application locally make sure to copy the files and then run npm ins
 This is largely for personal use though feel free to look around!
 Here is a screenshot of the application:
 
-<img src="./finished/Screenshot(191).png">
+<img src="./finished/Screenshot (191).png">
 
 
 ## Contributing
